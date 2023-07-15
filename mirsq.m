@@ -1,5 +1,5 @@
 function mirsq(StartNum, EndNum)
-%Mirror Squares 1 to 100
+%Mirror Squares 1 to 1000
 % eg >> mirsq(1,100)
 %
 % Thanks To Dear MONK 
